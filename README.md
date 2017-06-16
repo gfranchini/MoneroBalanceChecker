@@ -5,7 +5,8 @@
 
 1. Clone repository
 2. `cd monerobalancechecker/`
-3. `./check_monero.rb`
+3. `bundle`
+4. `./check_monero.rb`
 
 ### Result:
 ```
