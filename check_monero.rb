@@ -1,4 +1,3 @@
-#!/usr/bin/ruby
 require 'httparty'
 require 'nokogiri'
 require 'tty-spinner'
